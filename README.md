@@ -6,7 +6,7 @@
 
 **Team Name:** Roger Goodell Non-Fanclub  
 **Course:** Data Analytics / Sports Analytics (or appropriate course name)  
-**Date:** December 2025
+**Date:** February 2024 - May 2024
 
 ---
 
