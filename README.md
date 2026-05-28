@@ -178,10 +178,10 @@ We created an interactive widget (slider) to display team wins for any year 2000
 3. **Download the datasets** from Kaggle (links above) and place CSV files in `data/`
 
 4. **Run the Jupyter notebooks** in order:
-  - `01_combine_cleaning.ipynb`
-  - `02_combine_analysis.ipynb`
-  - `03_attendance_analysis.ipynb`
-  - `04_standings_widget.ipynb`
+     - `01_combine_cleaning.ipynb`
+     - `02_combine_analysis.ipynb`
+     - `03_attendance_analysis.ipynb`
+     - `04_standings_widget.ipynb`
 
 5. **Generate plots** - The notebooks will output figures into `images/` (or you can view inline)
 
